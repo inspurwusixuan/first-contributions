@@ -29,6 +29,7 @@
 - [Hussein Akar] (https://github.com/hussein-akar)
 - [Nate Osterfeld] (https://github.com/NateOsterfeld)
 - [Rik Kraan] (https://github.com/rikkraanvantage)
+- [Hubert Pietron] (https://github.com/hubertpie)
 - [Vrinda Tyagi]
 - [Ramin Daneshi] (https://github.com/Ramin-Daneshi)
 - [Michael M Chiwere] (https://github.com/RationalEar)
